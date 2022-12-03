@@ -1,0 +1,4 @@
+requests
+pymongo
+paho-mqtt
+python-dotenv
